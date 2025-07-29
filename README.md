@@ -42,7 +42,7 @@
 
 ---
 
-## Featured Project
+## 📌 Featured Project
 
 ### 🔹 [🎮Simon Says – Retro Memory Challenge Game](https://keshavbansll.github.io/Simon-Says/)
 > _A modern browser-based take on the iconic 80s memory game._
@@ -55,7 +55,7 @@
   - Sound control toggle
   - Fully mobile responsive
 
-> This was my first fully functional JavaScript project.
+> My first complete JavaScript game: built from scratch using DOM manipulation, logic flow, localStorage, and responsive design.
 
 ---
 
@@ -74,6 +74,20 @@
   <img src="https://github-profile-trophy.vercel.app/?username=keshavbansll&theme=algolia&row=1&margin-w=10" />
   <br><br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=keshavbansll&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=keshavbansll&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+<p align="center">
+  Building, improving, and learning in public.
 </p>
 
 ---
