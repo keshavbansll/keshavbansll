@@ -1,16 +1,80 @@
-## Hi there 👋
+<h1 align="center">Hey, I'm Keshav Bansal 👋</h1>
 
-<!--
-**keshavbansll/keshavbansll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <strong>Python and Frontend Developer</strong> • B.Tech CSE @ JECRC Foundation <br>
+  <em>Focused on practical impact, building projects that work and teach something real.</em>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="mailto:officialkeshavbansal@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-informational?style=flat-square&logo=gmail&logoColor=white&color=red" /></a>
+  <a href="https://linktr.ee/keshavbansll"><img src="https://img.shields.io/badge/Linktree-KeshavBansal-green?style=flat-square&logo=linktree" /></a>
+  <img src="https://komarev.com/ghpvc/?username=keshavbansll&label=Profile+Views&color=blue&style=flat-square" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 Currently Learning
+- Advanced **JavaScript**: ES6+, Call Stack, async handling, and structuring modular code.
+- Error Testing, API calls and Status Code.
+- Version control and collaboration workflows with **Git & GitHub**.
+
+---
+
+## 🚀 Tech Stack
+
+### 💻 Languages  
+![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge)
+![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
+
+### 🎨 Frontend & Styling  
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge)
+![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?logo=tailwind-css&logoColor=white&style=for-the-badge)
+
+### 🗄️ Database  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
+
+### 🛠 Tools  
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge)
+
+---
+
+## Featured Project
+
+### 🔹 [🎮Simon Says – Retro Memory Challenge Game](https://keshavbansll.github.io/Simon-Says/)
+> _A modern browser-based take on the iconic 80s memory game._
+
+- 🔗 [Repository](https://github.com/keshavbansll/Simon-Says)
+- 💡 Built with: **HTML**, **CSS**, **JavaScript**
+- 🎯 Highlights:
+  - Real-time color sequence generation and interaction
+  - Local storage-based high score tracking
+  - Sound control toggle
+  - Fully mobile responsive
+
+> This was my first fully functional JavaScript project.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=keshavbansll&show_icons=true&theme=tokyonight&hide_title=true&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keshavbansll&layout=compact&theme=tokyonight&hide_title=true" height="165" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies & Streak
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=keshavbansll&theme=algolia&row=1&margin-w=10" />
+  <br><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=keshavbansll&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
