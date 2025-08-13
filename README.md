@@ -59,7 +59,7 @@
 
 ---
 
-### 🔹 [📘Mentra - Smart Study Companion for Students]https://keshavbansll.github.io/Mentra/)
+### 🔹 [📘Mentra - Smart Study Companion for Students](https://keshavbansll.github.io/Mentra/)
 > _A smart study companion built specifically for students._
 
 - 🔗 [Repository](https://github.com/keshavbansll/Mentra)
