@@ -7,6 +7,7 @@
 
 <p align="center">
   <a href="mailto:officialkeshavbansal@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-informational?style=flat-square&logo=gmail&logoColor=white&color=red" /></a>
+  <a href="https://www.linkedin.com/in/keshavbansll"><img src="https://img.shields.io/badge/LinkedIn-Connect-informational?style=flat-square&logo=linkedin&logoColor=white&color=0A66C2" /></a>
   <a href="https://linktr.ee/keshavbansll"><img src="https://img.shields.io/badge/Linktree-KeshavBansal-green?style=flat-square&logo=linktree" /></a>
   <img src="https://komarev.com/ghpvc/?username=keshavbansll&label=Profile+Views&color=blue&style=flat-square" />
 </p>
