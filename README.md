@@ -14,9 +14,9 @@
 ---
 
 ## 🧠 Currently Learning
-- Advanced **JavaScript**: ES6+, Call Stack, async handling, and structuring modular code.
-- Error Testing, API calls and Status Code.
-- Version control and collaboration workflows with **Git & GitHub**.
+- Backend using **Node.js**
+- Working with **Express.js** for dynamic routes and web pages.
+- Server request/response handling.
 
 ---
 
