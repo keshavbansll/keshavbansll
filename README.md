@@ -1,10 +1,3 @@
-<h1 align="center">Hey, I'm Keshav Bansal 👋</h1>
-
-<p align="center">
-  <strong>Python and Frontend Developer</strong> • B.Tech CSE @ JECRC Foundation <br>
-  <em>Focused on practical impact, building projects that work and teach something real.</em>
-</p>
-
 <p align="center">
   <a href="mailto:officialkeshavbansal@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-informational?style=flat-square&logo=gmail&logoColor=white&color=red" /></a>
   <a href="https://www.linkedin.com/in/keshavbansll"><img src="https://img.shields.io/badge/LinkedIn-Connect-informational?style=flat-square&logo=linkedin&logoColor=white&color=0A66C2" /></a>
