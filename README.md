@@ -8,9 +8,9 @@
 ---
 
 ## 🧠 Currently Learning
-- Backend using **Node.js**
-- Working with **Express.js** for dynamic routes and web pages.
-- Server request/response handling.
+- Database creation using **SQL**
+- Using Node with **MySQL**
+- Server handling.
 
 ---
 
@@ -23,6 +23,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white&style=for-the-badge)
+![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge)
 
 ### 🎨 Frontend & Styling  
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge)
