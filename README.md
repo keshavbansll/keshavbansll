@@ -8,9 +8,9 @@
 ---
 
 ## 🧠 Currently Learning
-- Database creation using **SQL**
-- Using Node with **MySQL**
-- Server handling.
+- Database creation using **MongoDB**
+- Using Express with **MongoDB**
+- Database handling.
 
 ---
 
