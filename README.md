@@ -67,25 +67,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=keshavbansll&show_icons=true&theme=tokyonight&hide_title=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keshavbansll&layout=compact&theme=tokyonight&hide_title=true" height="165" />
-</p>
-
----
-
-## 🏆 GitHub Trophies & Streak
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=keshavbansll&theme=algolia&row=1&margin-w=10" />
-  <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=keshavbansll&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ## 📈 Contribution Graph
 
 <p align="center">
