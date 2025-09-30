@@ -8,9 +8,9 @@
 ---
 
 ## 🧠 Currently Learning
-- Database creation using **MongoDB**
-- Using Express with **MongoDB**
-- Database handling.
+
+- Backend Middlewares
+- Deployment strategies
 
 ---
 
@@ -64,14 +64,6 @@
   - Search on different platforms like Google, YouTube, MDN and Wikipedia.
   - Dynamically updated weekly calendar
   - Manage your tasks with a dynamically updating progress bar
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=keshavbansll&theme=tokyo-night&hide_border=true" />
-</p>
 
 ---
 
