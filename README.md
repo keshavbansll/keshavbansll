@@ -9,8 +9,8 @@
 
 ## 🧠 Currently Learning
 
-- Backend Middlewares
-- Deployment strategies
+- Data Science & Analysis
+- C Programming Language
 
 ---
 
@@ -40,18 +40,17 @@
 
 ## 📌 Featured Project
 
-### 🔹 [🎮Simon Says – Retro Memory Challenge Game](https://keshavbansll.github.io/Simon-Says/)
-> _A modern browser-based take on the iconic 80s memory game._
-
-- 🔗 [Repository](https://github.com/keshavbansll/Simon-Says)
-- 💡 Built with: **HTML**, **CSS**, **JavaScript**
+### 🔹 [🚖Uber Web App – Reimagined](https://uber-web-project.vercel.app/)
+> _A modern browser-based uber web application.
+- 🔗 [Repository](https://github.com/keshavbansll/Uber-Web)
+- 💡 Tech Stack: **React.js*, *Express.js*, *JavaScript*, *CSS*, *Node.js*
 - 🎯 Highlights:
-  - Real-time color sequence generation and interaction
-  - Local storage-based high score tracking
-  - Sound control toggle
+  - Interactive Map on Home Screen
+  - Options to register both as a user or driver.
+  - Integrated working Backend for separate routes.
   - Fully mobile responsive
 
-> My first complete JavaScript game: built from scratch using DOM manipulation, logic flow, localStorage, and responsive design.
+> My first complete React Web App: built from scratch.
 
 ---
 
