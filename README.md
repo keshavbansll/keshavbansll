@@ -52,21 +52,6 @@
 
 > My first complete React Web App: built from scratch.
 
----
-
-### 🔹 [📘Mentra - Smart Study Companion for Students](https://keshavbansll.github.io/Mentra/)
-> _A smart study companion built specifically for students._
-
-- 🔗 [Repository](https://github.com/keshavbansll/Mentra)
-- 💡 Built with: **HTML**, **CSS**, **JavaScript**
-- 🎯 Highlights:
-  - In-built Mentra Dictionary
-  - Search on different platforms like Google, YouTube, MDN and Wikipedia.
-  - Dynamically updated weekly calendar
-  - Manage your tasks with a dynamically updating progress bar
-
----
-
 <p align="center">
   Building, improving, and learning in public.
 </p>
